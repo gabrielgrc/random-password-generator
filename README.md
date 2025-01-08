@@ -30,7 +30,7 @@ The **Random Password Generator** is a JavaScript application designed to create
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/random-password-generator.git
+   git clone https://github.com/gabrielgrc/random-password-generator.git
 
 2. Navigate to the project directory:
    ```bash
